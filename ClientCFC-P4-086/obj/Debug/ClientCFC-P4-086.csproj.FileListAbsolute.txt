@@ -1,0 +1,6 @@
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 5\ClientCFC-P4-086\ClientCFC-P4-086\bin\Debug\ClientCFC-P4-086.exe.config
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 5\ClientCFC-P4-086\ClientCFC-P4-086\bin\Debug\ClientCFC-P4-086.exe
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 5\ClientCFC-P4-086\ClientCFC-P4-086\bin\Debug\ClientCFC-P4-086.pdb
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 5\ClientCFC-P4-086\ClientCFC-P4-086\obj\Debug\ClientCFC-P4-086.csproj.CoreCompileInputs.cache
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 5\ClientCFC-P4-086\ClientCFC-P4-086\obj\Debug\ClientCFC-P4-086.exe
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 5\ClientCFC-P4-086\ClientCFC-P4-086\obj\Debug\ClientCFC-P4-086.pdb
